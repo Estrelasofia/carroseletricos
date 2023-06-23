@@ -1,0 +1,11 @@
+body{
+    background-color: azure;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+} 
